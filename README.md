@@ -1,5 +1,10 @@
 # **Robot Navigation using Reinforcement Learning**
 
+<div align="center">
+  <img src="/media/rl.gif">
+</div>
+
+
 ### Overview
 - This project demonstrates autonomous navigation and obstacle avoidance within Nvidia's Isaac Gym Simulator.
 - Using a model-free RL technique, the Unitree Go1 robot is trained to navigate towards a target while avoiding obstacles in an unknown flat environment.
